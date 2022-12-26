@@ -1,2 +1,4 @@
 # mario-more-CS50-
-Printing dynamic mario staircase
+
+##### CS50 Week 1 Problem Set
+* Printing dynamic mario staircase
